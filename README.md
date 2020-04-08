@@ -17,5 +17,3 @@ Based on Game theory proposed by John Horton Conway
 ## 23/3 Neighbourhood Rule  
 ![23/3 Rule](https://github.com/RajR11/Implementation-of-Cellular-Automata-using-CUDA-/blob/master/23%20rule.JPG)
 
-## Input and Ouptut
-![Input Image](1.png) ==> ![Output Image](2.gif)
